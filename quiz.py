@@ -1,6 +1,6 @@
 # ============================================================
 #  Smart Cities & Future Transportation Quiz
-#  Authors: Sujal & Bikas 
+#  Authors: Sujal , Bryce & Bikas 
 #  Version: 1.1  – polished questions and formatting
 # ============================================================
 

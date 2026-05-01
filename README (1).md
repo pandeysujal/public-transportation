@@ -4,7 +4,7 @@ A Python-based command-line quiz app that tests your knowledge of smart city tec
 
 Built as a collaborative GitHub project for CIS coursework.
 
-**Authors:** Sujal & Bikas Poudel
+**Authors:** Sujal, Bikas & Bryce
 
 ---
 
